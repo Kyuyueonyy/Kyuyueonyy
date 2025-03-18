@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### 규연의 깃허브
+
 <!--
 **Kyuyueonyy/Kyuyueonyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
